@@ -9,9 +9,9 @@ A simple vending machine app made in Python following along with the Treehouse P
 
 ## Description
 
-_The user can select whether they want CHIPS, SODA, or CANDY_
-_The user can receive a type of CHIPS, SODA, or Candy_
-_The app will let the user know if the machine is out of CHIPS, SODA, or Candy_
+* _The user can select whether they want CHIPS, SODA, or CANDY_
+* _The user can receive a type of CHIPS, SODA, or Candy_
+* _The app will let the user know if the machine is out of CHIPS, SODA, or Candy_
 
 ## Setup/Installation Requirements
 
